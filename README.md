@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [QR-code-component](https://github.com/maneki-kakutasu/QR-code-component)
+- Live Site URL: []()
 
 ## My process
 
@@ -76,7 +76,7 @@ Just learn more about CSS intricacies, its best practices.
 ### Useful resources
 
 - [MDN](https://developer.mozilla.org/en-US/) - The best free resource to learn about basics out there
-- [stack**overflow**](https://stackoverflow.com/) - A bunch of solutions to your problems have already been implemented (shouldn't rely on it too much, I guess) 
+- [stack**overflow**](https://stackoverflow.com/) - A bunch of solutions to your problems have already been implemented (shouldn't rely on it too much, I guess)
 
 ## Author
 
